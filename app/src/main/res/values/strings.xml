@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinVideoAPP</string>
+    <string name="camera_button">Record Video</string>
+</resources>
